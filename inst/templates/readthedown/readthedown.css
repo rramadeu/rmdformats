@@ -930,7 +930,7 @@ footer p{
     position:fixed;
     bottom:0;
     color:#fcfcfc;
-    background:#1f1d1d;
+    background:#E85709;
     border-top:solid 10px #B8CBD6;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
@@ -946,7 +946,8 @@ footer p{
 #postamble .date {
     font-size: 100%;
     margin-bottom: 0px;
-    color: #005587;
+    /* color: #005587; */
+    color: #ffffff;
 }
 
 #postamble .author span,
