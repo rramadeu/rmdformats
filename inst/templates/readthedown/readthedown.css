@@ -820,14 +820,14 @@ hr{
     overflow-x: hidden;
     overflow-y: auto;
     height:100%;
-    background:#B8CBD6;
+    background:#003550;
     z-index:200;
     font-size: 16px;
 }
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#003350;
+    background-color:#CC662F;
     text-align:center;
     padding:0.809em;
     display:block;
