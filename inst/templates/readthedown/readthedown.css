@@ -1,4 +1,10 @@
-/* Palette : https://coolors.co/211103-3d1308-7b0d1e-9f2042-f8e5ee */
+/* Palette : https://coolors.co/211103-3d1308-7b0d1e-003350-f8e5ee */
+/* Here we change the colors:
+9F2042 -> 003350
+F1C40F -> CC662F
+C7254E -> CC662F
+
+*/
 
 @font-face {
   font-family: 'Lato';
@@ -47,14 +53,14 @@
 
 #main .nav-pills > li > a:hover {
   color: #FFFFFF !important;
-  background-color: #9F2042;
+  background-color: #003350;
 }
 
 #main .nav-pills > li.active > a,
 #main .nav-pills > li.active > a:hover,
 #main .nav-pills > li.active > a:focus {
   color: #FFFFFF !important;
-  background-color: #9F2042;
+  background-color: #003350;
 }
 
 /* Chi-squared results */
@@ -117,7 +123,7 @@ img.mfp-img {
 h1,h2,h3,h4,h5,h6,legend{
     font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
     font-weight:700;
-    color: #9F2042;
+    color: #003350;
 }
 
 h1{
@@ -434,7 +440,7 @@ dl dd{
 }
 
 #nav-top span.glyphicon {
-  color: #9F2042;
+  color: #003350;
   font-size: 28px;
 }
 
@@ -682,7 +688,7 @@ a {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: 0 2em;
-    color:#c7254e;
+    color:#CC662F;
     font-weight: 300;
     padding: .125em 1px 0 1px;
     transition: background-position .15s, color .15s;
@@ -735,7 +741,7 @@ hr{
     font-weight:bold;
     text-transform:uppercase;
     font-size:80%;
-    color:#9F2042;
+    color:#003350;
     white-space:nowrap}
 
 #table-of-contents ul{
@@ -826,7 +832,7 @@ hr{
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#9F2042;
+    background-color:#003350;
     text-align:center;
     padding:0.809em;
     display:block;
@@ -1013,7 +1019,7 @@ footer p{
     font-size:100%}
 
 #content .highlighted{
-    background:#F1C40F;
+    background:#CC662F;
     display:inline-block;
     font-weight:bold;
     padding:0 6px}
