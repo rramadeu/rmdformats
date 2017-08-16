@@ -1,4 +1,5 @@
 /* Palette : https://coolors.co/211103-3d1308-7b0d1e-9f2042-f8e5ee */
+/* Statgen Palette: https://coolors.co/B8CBD6-934820-cc662f-003350-005587 */
 
 @font-face {
   font-family: 'Lato';
@@ -47,14 +48,14 @@
 
 #main .nav-pills > li > a:hover {
   color: #FFFFFF !important;
-  background-color: #9F2042;
+  background-color: #003350;
 }
 
 #main .nav-pills > li.active > a,
 #main .nav-pills > li.active > a:hover,
 #main .nav-pills > li.active > a:focus {
   color: #FFFFFF !important;
-  background-color: #9F2042;
+  background-color: #003350;
 }
 
 /* Chi-squared results */
@@ -117,7 +118,7 @@ img.mfp-img {
 h1,h2,h3,h4,h5,h6,legend{
     font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
     font-weight:700;
-    color: #9F2042;
+    color: #003350;
 }
 
 h1{
@@ -434,7 +435,7 @@ dl dd{
 }
 
 #nav-top span.glyphicon {
-  color: #9F2042;
+  color: #003350;
   font-size: 28px;
 }
 
@@ -699,10 +700,10 @@ a:hover, a:active{
 }
 
 a:hover{
-    color:#3d1308}
+    color:#934820}
 
 a:visited{
-    color:#3d1308}
+    color:#934820}
 
 .left{
     text-align:left}
@@ -735,7 +736,7 @@ hr{
     font-weight:bold;
     text-transform:uppercase;
     font-size:80%;
-    color:#9F2042;
+    color:#003350;
     white-space:nowrap}
 
 #table-of-contents ul{
@@ -819,14 +820,14 @@ hr{
     overflow-x: hidden;
     overflow-y: auto;
     height:100%;
-    background:#211103;
+    background:#B8CBD6;
     z-index:200;
     font-size: 16px;
 }
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#9F2042;
+    background-color:#003350;
     text-align:center;
     padding:0.809em;
     display:block;
@@ -930,7 +931,7 @@ footer p{
     bottom:0;
     color:#fcfcfc;
     background:#1f1d1d;
-    border-top:solid 10px #211103;
+    border-top:solid 10px #B8CBD6;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
     z-index:400;
@@ -945,7 +946,7 @@ footer p{
 #postamble .date {
     font-size: 100%;
     margin-bottom: 0px;
-    color: #f8e5ee;
+    color: #005587;
 }
 
 #postamble .author span,
