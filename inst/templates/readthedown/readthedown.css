@@ -1,10 +1,5 @@
-/* Palette : https://coolors.co/211103-3d1308-7b0d1e-003350-f8e5ee */
-/* Here we change the colors:
-9F2042 -> 003350
-F1C40F -> CC662F
-C7254E -> CC662F
-
-*/
+/* PaletteOriginal : https://coolors.co/211103-3d1308-7b0d1e-9f2042-f8e5ee */
+/* PaletteActual: https://coolors.co/30180b-934820-cc662f-003350-005587 */
 
 @font-face {
   font-family: 'Lato';
@@ -678,7 +673,7 @@ label{
     font-size:90%}
 
 a {
-    color:#7B0D1E;
+    color:#cc662f;
     text-decoration:none;
     cursor:pointer;
 }
@@ -688,7 +683,7 @@ a {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: 0 2em;
-    color:#CC662F;
+    color:#c7254e;
     font-weight: 300;
     padding: .125em 1px 0 1px;
     transition: background-position .15s, color .15s;
@@ -705,10 +700,10 @@ a:hover, a:active{
 }
 
 a:hover{
-    color:#3d1308}
+    color:#934820}
 
 a:visited{
-    color:#3d1308}
+    color:#934820}
 
 .left{
     text-align:left}
@@ -825,7 +820,7 @@ hr{
     overflow-x: hidden;
     overflow-y: auto;
     height:100%;
-    background:#211103;
+    background:#30180b;
     z-index:200;
     font-size: 16px;
 }
@@ -936,7 +931,7 @@ footer p{
     bottom:0;
     color:#fcfcfc;
     background:#1f1d1d;
-    border-top:solid 10px #211103;
+    border-top:solid 10px #30180b;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
     z-index:400;
@@ -951,7 +946,7 @@ footer p{
 #postamble .date {
     font-size: 100%;
     margin-bottom: 0px;
-    color: #f8e5ee;
+    color: #005587;
 }
 
 #postamble .author span,
@@ -1019,7 +1014,7 @@ footer p{
     font-size:100%}
 
 #content .highlighted{
-    background:#CC662F;
+    background:#F1C40F;
     display:inline-block;
     font-weight:bold;
     padding:0 6px}
