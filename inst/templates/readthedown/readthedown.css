@@ -673,7 +673,7 @@ label{
     font-size:90%}
 
 a {
-    color:#7B0D1E;
+    color:#e85709;
     text-decoration:none;
     cursor:pointer;
 }
@@ -683,7 +683,7 @@ a {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: 0 2em;
-    color:#c7254e;
+    color:#e85709;
     font-weight: 300;
     padding: .125em 1px 0 1px;
     transition: background-position .15s, color .15s;
@@ -1015,7 +1015,7 @@ footer p{
     font-size:100%}
 
 #content .highlighted{
-    background:#F1C40F;
+    background:#E85709;
     display:inline-block;
     font-weight:bold;
     padding:0 6px}
