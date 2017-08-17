@@ -650,11 +650,11 @@ legend{
 
 #content .admonition-title.warning,#content .admonition-title.caution,#content .admonition-title.attention{
     line-height: 1;
-    background:#F0B37E}
+    background:#e85709}
 
 #content .admonition-title.error,#content .admonition-title.danger{
     line-height: 1;
-    background:#f29f97}
+    background:#e85709}
 
 legend{
     display:block;
