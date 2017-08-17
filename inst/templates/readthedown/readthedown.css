@@ -650,11 +650,11 @@ legend{
 
 #content .admonition-title.warning,#content .admonition-title.caution,#content .admonition-title.attention{
     line-height: 1;
-    background:#e85709}
+    background:#F0B37E}
 
 #content .admonition-title.error,#content .admonition-title.danger{
     line-height: 1;
-    background:#e85709}
+    background:#f29f97}
 
 legend{
     display:block;
@@ -1015,7 +1015,7 @@ footer p{
     font-size:100%}
 
 #content .highlighted{
-    background:#E85709;
+    background:#F1C40F;
     display:inline-block;
     font-weight:bold;
     padding:0 6px}
